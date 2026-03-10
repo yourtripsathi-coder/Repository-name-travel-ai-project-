@@ -1,0 +1,11 @@
+place,country,type,best_months,weather,travel_for,crowd,weather_score
+Bali,Indonesia,Beach,May Jun Jul,Tropical,Couple,Medium,9
+Maldives,Maldives,Beach,Nov Dec Jan,Warm,Couple,Low,10
+Paris,France,City,Apr May Jun,Mild,Couple,High,8
+Swiss Alps,Switzerland,Mountain,Dec Jan Feb,Snow,Family,Medium,9
+Dubai,UAE,City,Nov Dec Jan,Warm,Both,High,9
+Phuket,Thailand,Beach,Dec Jan Feb,Tropical,Both,Medium,8
+Kyoto,Japan,City,Mar Apr,Mild,Both,High,8
+Goa,India,Beach,Nov Dec Jan,Warm,Both,High,7
+Santorini,Greece,Island,May Jun,Sunny,Couple,Medium,9
+Sakleshpur,India,Hill,Sep Oct Nov,Cool,Family,Low,8
